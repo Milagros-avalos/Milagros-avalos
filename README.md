@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Milagros-avalos
-- 👀 I’m interested in developer wed
+- 👀 I’m interested in developer web
 - 🌱 I’m currently learning projects in JavaScript and React 
 
 
